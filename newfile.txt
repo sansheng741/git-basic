@@ -1,1 +1,6 @@
 hello world
+
+
+git add 将文件添加到暂存区
+git commit 将文件提交到仓库
+git push 将分支推送到远程仓库
